@@ -12,9 +12,9 @@
  解压goldeneye.zip
  
  # 4.使用
-  ``` python2 xgoldeneye.py  url -w 人数 -s 请求数  ```
+  ``` python2 goldeneye.py  url -w 人数 -s 请求数  ```
  
  # 5.例如
- python2 xgoldeneye.py  www.baidu.com -w 20 -s 1000
+ python2 goldeneye.py  www.baidu.com -w 20 -s 1000
  
  20线程每个线程请求1000次
