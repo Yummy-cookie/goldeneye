@@ -7,7 +7,7 @@
 # 3.安装
 此版本需要python2.7.X
 
- ``` git clone https://github.com/xiazhongdan/goldeneye.git  ```
+ ``` git clone https://github.com/Yummy-cookie/goldeneye.git  ```
  
  解压goldeneye.zip
  
