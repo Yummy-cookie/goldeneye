@@ -3,4 +3,4 @@
 # 2.注意
 请不要做违法的事情
 # 3.安装
-git clone https://github.com/xiazhongdan/goldeneye/goldeneye.zip
+git clone https://github.com/xiazhongdan/goldeneye/blob/main/goldeneye.zip
